@@ -1,0 +1,9 @@
+#  Default ignored files
+
+*.class
+*~
+*.log
+*.swp
+.DS_Store
+*.iml
+.idea/
